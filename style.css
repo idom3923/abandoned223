@@ -1,0 +1,40 @@
+h1{
+  margin: auto;
+  width: 50%;
+  border: 3px solid red;
+  padding: 10px;
+  text-align: center;
+  background-color: cyan;
+  color: red;
+  border-radius: 25px;
+}
+/*i learnt all this css randomly */
+h3{
+  border: 3px solid blue;
+  border-radius: 25px;
+  padding: 20px;
+  width: 1300px;
+  height: 150px;
+}
+/*hello*/
+.TopBar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  padding: .5rem 2rem;
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(255deg, #4b45ff, #5a54ff);
+  filter: drop-shadow(0 0 1rem #4b45ff);
+  background-size: 1000% 1000%;
+  display: flex;
+  color: White;
+  font-weight: 500;
+  z-index: 999999999999;
+  cursor:pointer;
+  font-size: .9rem;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
+}
